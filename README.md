@@ -1,13 +1,10 @@
-# CapibaraZero Resources
-
-Here lives the resources needed for building a complete CapibaraZero
-
+# Recursos CapibaraZero
+Aquí están los recursos necesarios para construir un CapibaraZero completo
 ## Structure
 
-- PCB/ Gerber and EasyEDA JSON files
-- electrical_diagram/ Electrical diagram of CapibaraZero in PNG and EasyEDA JSON
-- STL/ Box of capibaraZero
-
+- Archivos PCB/ Gerber y JSON de EasyEDA
+- electrical_diagram/ Diagrama eléctrico de CapibaraZero en PNG y EasyEDA JSON
+- STL/Caja de capibaraZero
 ### Supported platforms
 
 - CapibaraZero ESP32-S3-DevKitC-1
